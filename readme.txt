@@ -4,4 +4,7 @@ https://github.com/jackfrued/Python-100-Days/blob/master/Python%E5%AD%A6%E4%B9%A
 continue 
 cline
 https://codegeex.cn/
-CodeGeeX
+CodeGeeX 国内推荐
+GitHub Copilot 推荐
+3:https://github.com/home-assistant/core
+
