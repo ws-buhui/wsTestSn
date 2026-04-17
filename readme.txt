@@ -7,4 +7,4 @@ https://codegeex.cn/
 CodeGeeX 国内推荐
 GitHub Copilot 推荐
 3:https://github.com/home-assistant/core
-
+4:vibe coding :  github.com/liyupi/ai-guide
